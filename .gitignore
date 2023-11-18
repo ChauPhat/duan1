@@ -1,1 +1,7 @@
-
+.idea/
+duan1/.settings/
+duan1/bin/
+duan1/target/
+duan1/.classpath
+duan1/.gitignore
+duan1/.project
